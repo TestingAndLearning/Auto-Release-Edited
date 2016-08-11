@@ -40,7 +40,7 @@ public class Frames extends JFrame implements ActionListener
 	private JButton btnExit;
 	private JButton btnStop;
 	private JButton btnResume;
-	private String vers = "V. 1.29";
+	private String vers = "V. 1.30";
 	private JRadioButton opened, triaged;
 	ButtonGroup buttonGroup = new ButtonGroup();
 	private MainBot bot2;
